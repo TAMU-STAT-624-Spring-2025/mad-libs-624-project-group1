@@ -1,9 +1,9 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+1. Captain Luna
+2. Glitchy
+3. Neon
+4. Ultraviolet
+5. February
+6. 42
 7. Noun (Plural)
 8. Noun (Plural)
 9. Noun
